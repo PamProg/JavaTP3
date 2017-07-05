@@ -89,7 +89,6 @@ public class PizzeriaAdminConsoleApp {
 				}
 			}
 		}
-		
 	}
 
 	/**
@@ -153,7 +152,6 @@ public class PizzeriaAdminConsoleApp {
 										codeString,
 										nomString,
 										prixString};
-		
 	}
 
 	/**
